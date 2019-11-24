@@ -54,10 +54,10 @@
 
   // 附加信息内容。
   // left label
-  itemLabel: "左侧文字",
+  itemLabel: "Top 1",
 
   // right label
-  typeLabel: "右侧文字",
+  typeLabel: "Top 1",
 
 
   // 榜首项目信息的水平位置 。
@@ -154,7 +154,12 @@
   // 图片路径，本地图片或者网上图片。
   // 也可在imgs.js中配置。
   imgs: {
-    "条目": "http://i1.hdslb.com/bfs/face/983034448f81f45f05956d0455a86fe0639d6a36.jpg",
+    "中国": "./images/zhongguo.png",
+    "日本": "./images/riben.png",
+    "俄罗斯": "./images/eluosi.png",
+    "英国": "./images/yingguo.png",
+    "韩国": "./images/hanguo.png",
+    "美国": "./images/meiguo.png",
     "任意名称": "path/to/img"
   },
 
